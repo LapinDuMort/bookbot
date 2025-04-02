@@ -1,2 +1,3 @@
 # bookbot
-Python Project to analyse the occurance of letters in a book.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
